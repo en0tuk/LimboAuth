@@ -49,7 +49,7 @@ Test server: [``ely.su``](https://hotmc.ru/minecraft-server-203216)
 - ***limboauth.admin.forceunregister* | /forceunregister** - Force Unregister Account Command
 - ***limboauth.admin.forcechangepassword* | /forcechangepassword** - Force Change Account Password Command
 - ***limboauth.admin.reload* | /lauth reload** - Reload Plugin Command
-- ***limboauth.admin./**** - Gives All Admin Permissions
+- ***limboauth.admin.**** - Gives All Admin Permissions
 
 ## Donation
 
